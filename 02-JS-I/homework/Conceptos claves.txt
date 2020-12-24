@@ -1,0 +1,13 @@
+Variables: Las variables son comandos que guarda informacion o datos en palabras.
+           Por ejemplo, con la varible nombre = 'Glenn' ; al invocar la variable nombre, el resultado del mismo seria Glenn
+
+Strings: Los strings son datos que contienen caracteres, por ejemplo Glenn, y se los escribe entre comillas 'Glenn'
+
+Funciones: Las funciones son instrucciones para ejecutar y devolver algun valor en base a argumentos
+
+Declaraciones: Las declaraciones tambien son intrucciones pero donde el return es mas especifico, por ejemplo,
+               si sos mayor de 5 años, vas a la escuela, de lo contrario sos un bebe
+
+Valores booleanos: Son valores donde la salida o respuesta tiene solo 2 valores posibles, true o false, por ejemplo
+                   Sos mayor de 20 años, la respuesta puede ser solo verdadera o falsa
+               
