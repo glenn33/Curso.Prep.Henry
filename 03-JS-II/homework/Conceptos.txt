@@ -1,0 +1,6 @@
+For: Es una expresion que permite ejecutar un bloque de comando en bucle
+
+Operadores logicos: Son operadores que comparan entre dos expresiones
+  AND (&&): Las dos expresiones tienen que ser verdaderas para que el resultado final sea verdadero
+  OR (||): Si alguna de las 2 expresiones es verdadera, el resultado final es verdadero
+  NOT (!): Es el operador que se utiliza cuando queremos negar la expresion que le sigue al operador !
