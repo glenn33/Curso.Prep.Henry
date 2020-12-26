@@ -1,0 +1,2 @@
+Arrays: Los arreglos son una collecion de distintos tipos de datos, que los podemos invocar, o todos juntos
+        o por separado, dependiendo el lugar que ocupan en el arreglo.
