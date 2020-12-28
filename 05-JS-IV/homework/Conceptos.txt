@@ -1,0 +1,13 @@
+Objetos: Los objetos son agrupaciones o colecciones de datos, pero que estan mas enfocados en presentar
+         informacion sobre un objeto.
+
+Propiedades: Se refiere a las propiedades que puede tener un objeto, por ejemplo, el objeto Alumno, que tenga
+             como propiedad el nombre, la edad, el curso, etc.
+
+Metodos: Los metodos son las funciones guardadas dentro de un objeto.
+
+Bucle for..in: El bucle for...in lo utilizamos cuando queresmos recorrer cada una de las
+               propiedades de un objeto
+
+Notacion de puntos: Ej: objeto.propiedad; y devuelve literalmente la propiedad, y si no hay ninguna devuelve undefined
+Notacion de corchetes: Ej: objeto['propiedad']; Devuelve la la propiedad, pero tiene en cuenta las variables externas
