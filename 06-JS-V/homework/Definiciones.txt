@@ -1,0 +1,4 @@
+Prototype: Es un propiedad heredada implicita en los objetos creados, pero que tambien es un objeto, al que se lo pueden asignar mas propiedades
+
+Constructores: Los contructores o clases son plantillas con propiedades y metodos, que podemos utilizar 
+               para crear distintos objetos con estas mismas propiedades
