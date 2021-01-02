@@ -1,5 +1,5 @@
 h1 {
-    color:rgb(14, 122, 4);
+    color:rgb(175, 19, 19);
 }
 img {
     width:400px;
@@ -7,9 +7,9 @@ img {
 #thirdDiv {
     height: 600px;
     width: 500px;
-    background-color: rgb(47, 168, 47);
+    background-color: rgb(199, 199, 199);
     padding: 50px;
-    border: 80px solid rgb(109, 209, 114);
+    border: 80px solid rgb(218, 0, 0);
 }
 #spanId {
     font-size: 18px;
@@ -17,6 +17,8 @@ img {
 }
 body {
     background: url("wallpaperflare.com_wallpaper.jpg");
+}
+.divClass {
     display: flex;
     flex-direction: column;
     align-items: center;
