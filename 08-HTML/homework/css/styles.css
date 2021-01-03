@@ -1,5 +1,7 @@
 h1 {
     color:rgb(175, 19, 19);
+    position: fixed;
+    top: .2cm;
 }
 img {
     width:400px;
@@ -10,6 +12,10 @@ img {
     background-color: rgb(199, 199, 199);
     padding: 50px;
     border: 80px solid rgb(218, 0, 0);
+    position: absolute;
+    left: 15.5cm;
+    top: 8cm;
+    margin-top: 0.5cm;
 }
 #spanId {
     font-size: 18px;
@@ -22,4 +28,11 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
+    top: 1.5cm;
+}
+a {
+    position: relative;
+    left: -6cm;
+    margin-top: -0.5cm;
 }
